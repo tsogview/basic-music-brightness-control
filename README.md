@@ -1,16 +1,10 @@
 # basic-music-brightness-control
+功能:
+可以用鼠标滚轮和键盘上的按键组合来调节音量,显示器的亮度.
+还可以快速切换歌曲(上一首,下一首)以及暂停,支持超多音乐软件
 
-简单的亮度,声音控制的windos软件;
-
-亮度的控制只适合于笔记本,但是声音的控制是通用的
-
-关于音乐前进后退,
-
-在win10下的软件商店的网易云音乐可以切歌,
-
-itunes也可以,但是普通的桌面版的网易云音乐不能切歌
-
-------
+会在每次启动脚本的时候弹窗提示键位.
+按键不可自定义
 
 https://www.autohotkey.com/ 软件下载
 https://wyagd001.github.io/zh-cn/docs/Hotkeys.htm#Intro ahk教学
