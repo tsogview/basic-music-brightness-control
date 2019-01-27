@@ -7,7 +7,7 @@
 
 *按键不可自定义*
 
-- https://www.autohotkey.com/ 软件下载
+- https://www.autohotkey.com/ ahk脚本编译/直接运行软件下载
 
 - https://wyagd001.github.io/zh-cn/docs/Hotkeys.htm#Intro ahk教学
 
