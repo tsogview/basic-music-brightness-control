@@ -10,3 +10,5 @@
 - https://www.autohotkey.com/ 软件下载
 
 - https://wyagd001.github.io/zh-cn/docs/Hotkeys.htm#Intro ahk教学
+
+- https://guides.github.com/features/mastering-markdown/ github md文档写作教学
