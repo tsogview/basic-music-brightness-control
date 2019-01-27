@@ -5,6 +5,6 @@
 
 会在每次启动脚本的时候弹窗提示键位.
 按键不可自定义
-
+---
 https://www.autohotkey.com/ 软件下载
 https://wyagd001.github.io/zh-cn/docs/Hotkeys.htm#Intro ahk教学
