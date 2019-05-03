@@ -1,6 +1,5 @@
 # basic-music-brightness-control
 
-由于我是一个中国人而且懒得翻译，所以没有英文版说明
 Since I am a Chinese and too lazy to translate, there is no English version.
 
 ## 功能
